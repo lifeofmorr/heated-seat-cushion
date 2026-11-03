@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heated-seat-cushion.lifeofmorr.com/sitemap.xml
